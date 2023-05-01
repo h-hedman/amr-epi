@@ -1,4 +1,4 @@
-# amr_epi
+# Epidemiological Analyses with Antimicrobial Data
 Statistical modesl used to study antimicrobial resistance among humans and poultry in rural Ecuador. 
 
 For additional info see publications:
